@@ -15,7 +15,7 @@ Everything you enter in Flowly (transactions, categories, budgets, recurring ent
 ## Backups and exports
 When you create a backup or a CSV export, the file is saved to the location you choose (for example your device storage or a cloud folder such as Google Drive). Once saved there, the file is handled by that storage provider under its own privacy policy. Flowly does not send these files anywhere else.
 
-Your Flowly data is not included in Android's automatic cloud backup. If you transfer to a new phone with a direct device-to-device transfer, your data may be copied to the new device.
+Flowly also uses Android's built-in backup: your Flowly data (without receipt photos) is backed up to your Google account so it can be restored on a new phone or after reinstalling. This only happens if backup is turned on in your phone's settings, and only when the backup is end-to-end encrypted with your screen lock, so neither Google nor Flowly can read it. When you transfer directly from one phone to another, receipt photos are copied as well.
 
 ## App lock
 If you enable the app lock, authentication (fingerprint, face or device PIN) is handled entirely by Android. Flowly never receives or stores biometric data.
