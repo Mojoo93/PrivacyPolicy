@@ -1,7 +1,6 @@
-TODO change name once i have one
 # Spend Journal – Privacy Policy
 
-_Last updated: 17 October 2026_
+_Last updated: 29 October 2026_
 
 Spend Journal is developed by Moritz Martin.
 Contact: doublemlabs1@gmail.com
