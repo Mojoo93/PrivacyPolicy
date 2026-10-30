@@ -1,6 +1,6 @@
 # Spend Journal – Privacy Policy
 
-_Last updated: 29 October 2026_
+_Last updated: 30 October 2026_
 
 Spend Journal is developed by Moritz Martin.
 Contact: doublemlabs1@gmail.com
