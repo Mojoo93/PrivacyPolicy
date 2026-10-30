@@ -19,9 +19,6 @@ Spend Journal also uses Android's built-in backup: your Spend Journal data (with
 ## App lock
 If you enable the app lock, authentication (fingerprint, face or device PIN) is handled entirely by Android. Spend Journal never receives or stores biometric data.
 
-## Purchases
-Spend Journal Pro is purchased through Google Play. The payment is processed by Google under the [Google Privacy Policy](https://policies.google.com/privacy). Spend Journal only receives confirmation of whether Pro has been purchased. It receives no payment details.
-
 ## No tracking
 Spend Journal contains no ads, no analytics, no tracking and no third-party SDKs that collect data.
 
