@@ -6,7 +6,7 @@ Spend Journal is developed by Moritz Martin.
 Contact: doublemlabs1@gmail.com
 
 ## Summary
-Spend Journal works offline. Your financial data stays on your device and does not collect, store or share any personal data..
+Spend Journal works offline. Your financial data stays on your device and does not collect, store or share any personal data.
 
 ## Data stored on your device
 Everything you enter in Spend Journal (transactions, categories, budgets, recurring entries, notes and receipt photos) is stored only on your device. Nobody else has access to it.
